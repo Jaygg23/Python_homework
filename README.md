@@ -1,1 +1,2 @@
-# mycode
+# My first Github
+# learning 2025.05.04 ...
