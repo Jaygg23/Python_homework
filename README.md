@@ -1,2 +1,1 @@
-My first Github
-learning 2025.05.04 ...
+수리전산 과제
